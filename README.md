@@ -1,2 +1,3 @@
 # gfrances.github.io
-Main static page
+
+This is the code for my github profile static page
